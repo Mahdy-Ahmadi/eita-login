@@ -1,0 +1,71 @@
+Eitaa Bot Custom License - Version 1.0
+Copyright (c) 2026 Mahdy-Ahmadi
+
+All rights reserved.
+
+By downloading, copying, installing, or using this software, you agree to the following terms:
+
+## 1. Grant of Permission (Personal & Internal Use Only)
+
+You are permitted to:
+- Use this software in your personal or commercial projects
+- Modify, adapt, or optimize the code for your specific needs
+- Integrate this code into your own applications
+
+## 2. Prohibited Actions (Distribution & Redistribution)
+
+The following actions are STRICTLY PROHIBITED:
+
+a) **No Redistribution:** You may NOT publish, distribute, sublicense, share, upload, or transmit this software (in original, modified, partial, or derived form) on any platform including but not limited to:
+   - GitHub, GitLab, Bitbucket, or any code hosting service
+   - Social media, forums, blogs, or websites
+   - File sharing services, cloud storage, or messaging apps
+   - Any public or private repository
+
+b) **No Attribution Exception:** Even with credit or attribution to the original author, you may NOT republish this code.
+
+c) **No Commercial Resale:** You may NOT sell, rent, lease, or sublicense this software.
+
+d) **No Educational Redistribution:** You may NOT include this code in tutorials, courses, books, or educational materials without explicit written permission.
+
+## 3. Attribution Requirement (The Only Permitted Reference)
+
+If you use this code in your project, you MUST include a clear notice in your documentation, source code comments, or README file referencing the original repository. The reference should be formatted as:
+This project uses code from the Eitaa Bot project by Mahdy-Ahmadi.
+Original repository: https://github.com/Mahdy-Ahmadi/eita-login
+
+This attribution is NOT permission to redistribute. It is only an acknowledgment of use.
+
+## 4. No Warranty & Liability
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 5. Termination
+
+Any violation of these terms will automatically terminate your permission to use this software. Unauthorized distribution will result in immediate legal action under applicable copyright laws, including Digital Millennium Copyright Act (DMCA) takedown requests.
+
+## 6. Special Permissions
+
+For special use cases (e.g., inclusion in open-source projects, educational materials, or collaborative research), you must obtain explicit written permission by:
+- Opening an issue on the original repository
+- Contacting via GitHub: https://github.com/Mahdy-Ahmadi
+
+## 7. Governing Law
+
+This license shall be governed by and construed in accordance with the copyright laws of Iran and international intellectual property treaties.
+
+---
+
+**Summary in Simple Terms:**
+
+✅ You CAN use this code in your own projects (personal or commercial)
+✅ You CAN modify the code for your needs
+
+❌ You CANNOT share, republish, reupload, or distribute this code ANYWHERE
+❌ You CANNOT put this code on GitHub, GitLab, or any public platform
+❌ You CANNOT include this code in tutorials or courses
+❌ Even with credit to the author, redistribution is forbidden
+
+Remember: Using is allowed. Sharing is forbidden.
+
+© 2026 Mahdy-Ahmadi. All rights reserved.
